@@ -50,9 +50,7 @@ Contributions to the Language Translator App are welcome! If you would like to c
 
 Please ensure that your code adheres to the project's coding conventions and follows best practices.
 
-## License
 
-The Language Translator App is released under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code in accordance with the terms specified in the license.
 
 ## Acknowledgements
 
